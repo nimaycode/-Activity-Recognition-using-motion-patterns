@@ -1,6 +1,6 @@
 ---
-title: "Homework 7"
-author: "Vijay K. Gurbani, Ph.D., Illinois Institute of Technology"
+title: "Activity Recognition using motion patterns"
+author: "Nimay Srinivasan"
 output:
   html_notebook:
     toc: yes
